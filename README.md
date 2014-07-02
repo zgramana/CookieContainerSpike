@@ -1,4 +1,4 @@
 CookieContainerSpike
 ====================
 
-Demonstrates serializing the CookieContainer class using JSON.NET
+Demonstrates (de)serializing the CookieContainer class using JSON.NET
