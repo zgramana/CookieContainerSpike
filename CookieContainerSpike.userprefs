@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CookieContainerSpike/Program.cs">
+    <Files>
+      <File FileName="CookieContainerSpike/Program.cs" Line="121" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Source/couchbase-lite-net/src/Couchbase.Lite.Shared/Store/MonoSQLiteStorageEngine.cs" line="180" offsetX="383" offsetY="2685" expression="_transactions.Count" liveUpdate="True" />
+    <Watch file="../../../Source/couchbase-lite-net/src/Couchbase.Lite.Shared/Store/SqlitePclRawStorageEngine.cs" line="508" offsetX="383" offsetY="7605" expression="db" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
